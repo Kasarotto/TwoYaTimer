@@ -1,0 +1,8 @@
+# TwoYaTimer 依赖清单
+# Python >= 3.10
+
+# UI 框架：现代化 tkinter 封装，原生支持深色模式和圆角控件
+customtkinter>=5.2.0
+
+# 打包工具：将 Python 项目打包为单个 .exe
+pyinstaller>=6.0.0

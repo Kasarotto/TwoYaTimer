@@ -1,0 +1,19 @@
+# PyInstaller 临时构建目录
+build/
+dist/
+
+# Python 编译缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# 开发环境与 IDE 缓存
+.vscode/
+.idea/
+*.swp
+
+# 虚拟环境
+venv/
+env/
