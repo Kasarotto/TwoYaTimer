@@ -1,6 +1,9 @@
 # TwoYaTimer ⏱
 
-一款轻量现代的 Windows 桌面计时器，深色模式、厘秒精度、计次对比、历史记录一应俱全。
+一款轻量现代的 **Windows桌面计时器**，深色模式、厘秒精度、计次对比、历史记录一应俱全。
+
+右侧Releases下载即可直接使用
+
 <img width="512" height="739" alt="image" src="https://github.com/user-attachments/assets/f256c302-7e2b-4c3b-88cf-e34e06d90950" />
 
 
